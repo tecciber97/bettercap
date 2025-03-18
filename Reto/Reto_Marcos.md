@@ -1,4 +1,5 @@
 # Laboratorio 10: SQL Injection UNION Attack, Retrieving Multiple Values in a Single Column  
+![Diagrama SQL](captura.png)
 
 ## Objetivo  
 Mostrar usuario y contraseña en una tabla e iniciar sesión como **ADMINISTRATOR**  
