@@ -57,4 +57,4 @@ Pass: fbkcaiwnezps38nca5op
 
 ![Diagrama SQL](captura11.png)
 
-![Diagrama SQL](captura12.png)
+
